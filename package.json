@@ -1,0 +1,19 @@
+{
+  "name": "riznpm",
+  "version": "1.0.2",
+  "description": "publishing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riz-75/riznpm.git"
+  },
+  "author": "Rizwan Khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riz-75/riznpm/issues"
+  },
+  "homepage": "https://github.com/Riz-75/riznpm#readme"
+}
